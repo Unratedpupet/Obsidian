@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-21.md",
-                "mode": "source",
+                "file": "R Language.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "2c0eb133adbf59ee",
+            "id": "b7c5f4a24e74fbd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+                "file": "Systems Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+                "file": "Systems Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+                "file": "Systems Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md"
+                "file": "Systems Biology.md"
               }
             }
           },
@@ -191,11 +191,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c0eb133adbf59ee",
+  "active": "b7c5f4a24e74fbd9",
   "lastOpenFiles": [
+    "R Language.md",
+    "Systems Biology.md",
     "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
-    "999 Templates/Daily Note Template.md",
+    "Pasted image 20231022232844.png",
+    "Pasted image 20231022231938.png",
     "999 Daily Notes/2023/10-October/2023-10-21.md",
+    "999 Templates/Daily Note Template.md",
     "999 Daily Notes/2023/10-October/2023-10-22.md",
     "999 Daily Notes/2023/10-October",
     "999 Daily Notes/2023",
