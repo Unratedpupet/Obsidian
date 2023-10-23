@@ -5,3 +5,7 @@ Over the past several decades we have learned an enormous amount about the biolo
 ## Impact of Next Generation Sequencing
 
 Major technological advances have been made in recent years that have revolutionized our ability to sequence DNA. Because of these advances, genomic approaches to studying biological questions have gone from something that was only performed in high-budget genomics centers to techniques that can be employed by any laboratory. In many ways this has revolutionized how we perform life science research, but these technologies are very data-intensive, so biologists today need to develop a new toolbox of bioinformatics skills to analyze and successfully interpret these data.
+
+## Programming Languages
+
+Can utilize [[R Language]] or Python to help with statistical analysis and processing.
