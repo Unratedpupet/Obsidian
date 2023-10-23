@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Templates/Daily Note Template.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,42 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "999 Templates/Daily Note Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f24995bc3260ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/Literature Note Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08e43d39f150cbb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/Literature Note Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab5d62367f3116f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/School Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,12 +193,12 @@
   },
   "active": "2c0eb133adbf59ee",
   "lastOpenFiles": [
-    "999 Daily Notes/2023/10-October/2023-10-22.md",
-    "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
     "999 Daily Notes/2023/10-October/2023-10-21.md",
+    "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+    "999 Templates/Daily Note Template.md",
+    "999 Daily Notes/2023/10-October/2023-10-22.md",
     "999 Daily Notes/2023/10-October",
     "999 Daily Notes/2023",
-    "999 Templates/Daily Note Template.md",
     "Untitled.canvas",
     "999 Templates/School Note Template.md",
     "999 Daily Notes/Untitled.md",
