@@ -67,6 +67,11 @@ Notes:
  - cat("Text I want to output",file="output.file")
  - There is also a write.table()
 	 - used for data frames and lists
+ -  Parameters for the read.table function: 
+	- file = “filename”: tells R the name of the file you want to load
+	- sep = “\t”: indicates that the columns in the file are tab-delimited
+	- header = T: indicates that the first row is a header line
+	- names=1: indicates that the first column should be used as row names in the table in R
 
 ### Functions
 ```r

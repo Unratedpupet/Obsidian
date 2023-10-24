@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics/Transcriptomic Data Analysis.md",
+                "file": "Bioinformatics/Exploring Sample Relationships in R.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics/Untitled.md",
+                "file": "Programming/R Language.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/Untitled.md",
+                "file": "Bioinformatics/Exploring Sample Relationships in R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/Untitled.md",
+                "file": "Bioinformatics/Exploring Sample Relationships in R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatics/Untitled.md"
+                "file": "Bioinformatics/Exploring Sample Relationships in R.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d440b8095579135",
+  "active": "377e47a334640adf",
   "lastOpenFiles": [
     "Bioinformatics/Transcriptomic Data Analysis.md",
-    "Bioinformatics/Untitled.md",
+    "Programming/R Language.md",
+    "Bioinformatics/Exploring Sample Relationships in R.md",
     "FileCloud.md",
     "Fenrir.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
@@ -189,7 +190,6 @@
     "999 Templates/School Note Template.md",
     "conflict-files-obsidian-git.md",
     "Bioinformatics/Transcriptome Based Disease Classification.md",
-    "Programming/R Language.md",
     "Programming/Python.md",
     "Programming",
     "Bioinformatics/Principal Component Analysis.md",
