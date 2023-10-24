@@ -8,4 +8,7 @@ Major technological advances have been made in recent years that have revolutio
 
 ## Programming Languages
 
-Can utilize [[R Language]] or Python to help with statistical analysis and processing.
+Can utilize [[R Language]] or [[Python]] to help with statistical analysis and processing.
+
+# [[Transcriptomic Data Analysis]]
+- 

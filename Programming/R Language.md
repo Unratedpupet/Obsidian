@@ -62,4 +62,32 @@ Notes:
 			i<-i-1
 		}
 
+### Interacting with files
+![[Pasted image 20231023222228.png]]
+ - cat("Text I want to output",file="output.file")
+ - There is also a write.table()
+	 - used for data frames and lists
 
+### Functions
+```r
+oddcount <- function(x) {
+	k<-0
+	for (n in x) {
+		if (n%%2==1) k<-k+1
+	}
+	return (k)
+	}
+}
+oddcount(c(1,2,3,7,8,5,71,4,6,80))
+```
+ 
+## Plotting
+![[Pasted image 20231023223249.png]]
+
+# Notebooks
+Similar to Jupyter notebooks with [[Python]]
+Allows you to input your notes and thoughts without having it in the code.
+Makes it easier to share the code. Allows you to write comments about any code chunk.
+Can actually use different coding languages in the notebook.
+When you insert comments, #, it allows you to collapse the areas of the notebook in between the '#'.
+Uses [[Markdown language]]. If you open it up in the html format, it will use common markdown syntax.
