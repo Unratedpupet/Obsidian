@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R Language.md",
+                "file": "Programming/R Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gene Expression Omnibus.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ada610ed9e142fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111f5793fb6c7970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/R Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf0d7d1e9ee9630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gene Expression Omnibus.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gene Expression Omnibus.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gene Expression Omnibus.md"
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md"
               }
             }
           },
@@ -240,9 +276,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22fa18da11f9cf77",
+  "active": "ada610ed9e142fcb",
   "lastOpenFiles": [
+    "Fenrir.md",
+    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+    "FileCloud.md",
+    "Transcriptome Based Disease Classification.md",
+    "999 Imported Files/Pasted image 20231023234701.png",
     "Transcriptomic Data Analysis.md",
+    "Programming/Python.md",
+    "Programming/R Language.md",
+    "Programming",
     "Gene Expression Omnibus.md",
     "999 Imported Files/Pasted image 20231023231816.png",
     "Principal Component Analysis.md",
@@ -257,14 +301,9 @@
     "999 Imported Files/Pasted image 20231023230705.png",
     "999 Imported Files/Pasted image 20231023224940.png",
     "999 Imported Files/Pasted image 20231023224927.png",
-    "999 Imported Files/Pasted image 20231023224912.png",
     "Systems Biology.md",
     "999 Templates/School Note Template.md",
-    "R Language.md",
-    "Python.md",
     "Homelab.md",
-    "FileCloud.md",
-    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "999 Templates/Daily Note Template.md",
     "2023-10-23.md",
     "2023-10-21.md",
