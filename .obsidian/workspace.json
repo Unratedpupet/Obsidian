@@ -54,9 +54,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22fa18da11f9cf77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gene Expression Omnibus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b8b8051ed30b316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hierarchical Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b25d215baba2d8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcriptomic Data Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9251754c1d6e3af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principal Component Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcriptomic Data Analysis.md",
+                "file": "Gene Expression Omnibus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcriptomic Data Analysis.md",
+                "file": "Gene Expression Omnibus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcriptomic Data Analysis.md"
+                "file": "Gene Expression Omnibus.md"
               }
             }
           },
@@ -192,26 +240,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13b826493cdb9e04",
+  "active": "22fa18da11f9cf77",
   "lastOpenFiles": [
-    "Pasted image 20231023224940.png",
-    "Pasted image 20231023224927.png",
-    "Pasted image 20231023224912.png",
-    "Systems Biology.md",
     "Transcriptomic Data Analysis.md",
+    "Gene Expression Omnibus.md",
+    "999 Imported Files/Pasted image 20231023231816.png",
+    "Principal Component Analysis.md",
+    "999 Imported Files/Pasted image 20231023231543.png",
+    "999 Imported Files/Pasted image 20231023231512.png",
+    "999 Imported Files/Pasted image 20231023231341.png",
+    "999 Imported Files/Pasted image 20231022231938.png",
+    "K-means Clustering.md",
+    "999 Imported Files",
+    "Hierarchical Clustering.md",
+    "999 Imported Files/Pasted image 20231023230731.png",
+    "999 Imported Files/Pasted image 20231023230705.png",
+    "999 Imported Files/Pasted image 20231023224940.png",
+    "999 Imported Files/Pasted image 20231023224927.png",
+    "999 Imported Files/Pasted image 20231023224912.png",
+    "Systems Biology.md",
     "999 Templates/School Note Template.md",
     "R Language.md",
     "Python.md",
     "Homelab.md",
-    "Pasted image 20231023223249.png",
     "FileCloud.md",
-    "Pasted image 20231023222228.png",
     "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "999 Templates/Daily Note Template.md",
     "2023-10-23.md",
     "2023-10-21.md",
-    "Pasted image 20231022232844.png",
-    "Pasted image 20231022231938.png",
     "999 Templates/Literature Note Template.md",
     "999 Templates",
     "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
