@@ -26,3 +26,4 @@ Subject/Topic: # 15.3 Tutorial: Exploring Sample Relationships in R
 	- rld <- rlog(data_deseq, blind=FALSE)
 	- Note: This operation might take some time.
 - From now on, we will be using the transformed version of our DESeqDataSet (called rld). The format of the data in the transformed version is slightly different than the original. For example, the table of read counts is now accessed using "assay" rather than "counts".
+- A good visual explanation of PCA can be found at http://setosa.io/ev/principal-componentanalysis/.
