@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Templates/Daily Note Template.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7092579dbeedd223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R Language.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c5f4a24e74fbd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R Language.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09b360603a869078",
+            "id": "5c01627164b3633f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Templates/Daily Note Template.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R Language.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R Language.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R Language.md"
+                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md"
               }
             }
           },
           {
-            "id": "ef3c4f2d1f5e00ea",
+            "id": "f3882c74d132df68",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -187,31 +163,31 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7c5f4a24e74fbd9",
+  "active": "5c01627164b3633f",
   "lastOpenFiles": [
+    "FileCloud.md",
+    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+    "999 Templates/Daily Note Template.md",
     "Systems Biology.md",
+    "2023-10-23.md",
     "R Language.md",
-    "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+    "2023-10-21.md",
     "Pasted image 20231022232844.png",
     "Pasted image 20231022231938.png",
-    "999 Daily Notes/2023/10-October/2023-10-21.md",
-    "999 Templates/Daily Note Template.md",
+    "999 Templates/School Note Template.md",
+    "999 Templates/Literature Note Template.md",
+    "999 Templates",
+    "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
     "999 Daily Notes/2023/10-October/2023-10-22.md",
+    "999 Daily Notes/2023/10-October/2023-10-21.md",
     "999 Daily Notes/2023/10-October",
     "999 Daily Notes/2023",
-    "Untitled.canvas",
-    "999 Templates/School Note Template.md",
-    "999 Daily Notes/Untitled.md",
-    "999 Templates/Literature Note Template.md",
-    "Untitled",
-    "test",
-    "999 Templates",
-    "README.md",
-    "2023-10-21.md",
-    "999 Daily Notes"
+    "999 Daily Notes",
+    "README.md"
   ]
 }
