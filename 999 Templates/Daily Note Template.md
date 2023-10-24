@@ -5,7 +5,11 @@ tags:: [[+Daily Notes]]
 << [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 ---
-
+# Tasks
+```todoist
+name: Today
+filter: "today | overdue"
+```
 
 
 ---
