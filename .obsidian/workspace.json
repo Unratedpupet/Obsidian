@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dc2be4f7d0b0480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/Daily Note Template.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7c5f4a24e74fbd9",
             "type": "leaf",
             "state": {
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f5532c4b397f0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b360603a869078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/Daily Note Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md"
               }
             }
           },
@@ -191,9 +154,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f5532c4b397f0a1",
+  "active": "b7c5f4a24e74fbd9",
   "lastOpenFiles": [
+    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+    "999 Templates/Daily Note Template.md",
+    "Obsidian.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
+    "999 Templates/School Note Template.md",
     "conflict-files-obsidian-git.md",
     "Transcriptomic Data Analysis.md",
     "Transcriptome Based Disease Classification.md",
@@ -218,17 +185,14 @@
     "999 Imported Files/Pasted image 20231023224927.png",
     "999 Imported Files/Pasted image 20231023224912.png",
     "999 Imported Files",
-    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "R Language.md",
     "Systems Biology.md",
     "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
     "999 Daily Notes/2023/10-October/2023-10-21.md",
-    "999 Templates/Daily Note Template.md",
     "999 Daily Notes/2023/10-October/2023-10-22.md",
     "999 Daily Notes/2023/10-October",
     "999 Daily Notes/2023",
     "Untitled.canvas",
-    "999 Templates/School Note Template.md",
     "999 Daily Notes/Untitled.md",
     "999 Templates/Literature Note Template.md",
     "Untitled",
