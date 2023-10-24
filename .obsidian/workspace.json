@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+                "file": "FileCloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c12b6394768c444d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13b826493cdb9e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcriptomic Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+                "file": "Transcriptomic Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
+                "file": "Transcriptomic Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-23-Monday.md"
+                "file": "Transcriptomic Data Analysis.md"
               }
             }
           },
@@ -168,18 +192,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c01627164b3633f",
+  "active": "13b826493cdb9e04",
   "lastOpenFiles": [
+    "Pasted image 20231023224940.png",
+    "Pasted image 20231023224927.png",
+    "Pasted image 20231023224912.png",
+    "Systems Biology.md",
+    "Transcriptomic Data Analysis.md",
+    "999 Templates/School Note Template.md",
+    "R Language.md",
+    "Python.md",
+    "Homelab.md",
+    "Pasted image 20231023223249.png",
     "FileCloud.md",
+    "Pasted image 20231023222228.png",
     "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "999 Templates/Daily Note Template.md",
-    "Systems Biology.md",
     "2023-10-23.md",
-    "R Language.md",
     "2023-10-21.md",
     "Pasted image 20231022232844.png",
     "Pasted image 20231022231938.png",
-    "999 Templates/School Note Template.md",
     "999 Templates/Literature Note Template.md",
     "999 Templates",
     "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
