@@ -6,6 +6,7 @@
       ],
       "key": "`"
     }
+<<<<<<< HEAD
   ],
   "obsidian-zotero-desktop-connector:zdc-exp-Import": [
     {
@@ -14,5 +15,7 @@
       ],
       "key": "O"
     }
+=======
+>>>>>>> e46df5a814f360923539a4a40575ac209dc8d97b
   ]
 }
