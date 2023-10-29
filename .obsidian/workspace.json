@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "FileCloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "FileCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "FileCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md"
+                "file": "FileCloud.md"
               }
             }
           },
@@ -294,11 +294,14 @@
   },
   "active": "01d2b332ae5c82e4",
   "lastOpenFiles": [
+    "Homelab.md",
+    "FileCloud.md",
+    "Fenrir.md",
+    "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
     "conflict-files-obsidian-git.md",
     "999 Templates/Daily Note Template.md",
     "New Text Document.txt",
-    "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "Research Articles/Septic transfusion case/Septic transfusion case.md",
     "999 Templates/Zotero Note Template.md",
     "Untitled.canvas",
@@ -326,8 +329,6 @@
     "Todoist.md",
     "Bioinformatics/Exploring Sample Relationships in R.md",
     "Bioinformatics/Transcriptomic Data Analysis.md",
-    "FileCloud.md",
-    "Fenrir.md",
     "Bioinformatics",
     "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "Obsidian.md",
@@ -335,7 +336,6 @@
     "Bioinformatics/Transcriptome Based Disease Classification.md",
     "Bioinformatics/Principal Component Analysis.md",
     "Bioinformatics/K-means Clustering.md",
-    "Homelab.md",
     "999 Imported Files/Pasted image 20231023234701.png",
     "999 Imported Files/Pasted image 20231023231816.png",
     "999 Imported Files/Pasted image 20231023231543.png",
