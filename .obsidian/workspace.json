@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md"
+                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md"
               }
             }
           },
@@ -253,8 +253,9 @@
   },
   "active": "599de2dcc985ea2c",
   "lastOpenFiles": [
-    "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+    "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+    "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
     "Todoist.md",
     "Bioinformatics/Exploring Sample Relationships in R.md",
     "999 Templates/Daily Note Template.md",
@@ -291,7 +292,6 @@
     "999 Imported Files/Pasted image 20231023224940.png",
     "999 Imported Files/Pasted image 20231023224927.png",
     "Systems Biology.md",
-    "999 Templates/School Note Template.md",
     "999 Templates",
     "999 Daily Notes/2023/10-October",
     "999 Daily Notes/2023",
