@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FileCloud.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FileCloud.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FileCloud.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FileCloud.md"
+                "file": "999 Daily Notes/2023/10-October/2023-10-30-Monday.md"
               }
             }
           },
@@ -294,8 +294,9 @@
   },
   "active": "01d2b332ae5c82e4",
   "lastOpenFiles": [
-    "Homelab.md",
     "FileCloud.md",
+    "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
+    "Homelab.md",
     "Fenrir.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
