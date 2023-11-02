@@ -114,9 +114,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92c63e1c2fe475b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97d078162deed6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Bioinformatics/Systems Biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f49976746051114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems Biology Project One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2cf675df984ea12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Bioinformatics/Transcriptome Based Disease Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -182,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+                "file": "School/Bioinformatics/Transcriptome Based Disease Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+                "file": "School/Bioinformatics/Transcriptome Based Disease Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md"
+                "file": "School/Bioinformatics/Transcriptome Based Disease Classification.md"
               }
             }
           },
@@ -251,50 +299,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "599de2dcc985ea2c",
+  "active": "c2cf675df984ea12",
   "lastOpenFiles": [
-    "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+    "conflict-files-obsidian-git.md",
+    "Systems Biology Project One.md",
+    "School/Bioinformatics/Systems Biology.md",
     "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+    "999 Templates/Daily Note Template.md",
+    "Todoist Inbox.md",
+    "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
+    "School/Immunohematology II",
+    "School",
+    "Research Articles/Media/loza-correaSepticTransfusionCase2017/image-2-x49-y284.png",
+    "Research Articles/Media/fuEGFmediatedInductionMcl12015/image-2-x73-y485.png",
+    "Research Articles/Septic transfusion case/Septic transfusion case.md",
+    "Research Articles/Media/loza-correaSepticTransfusionCase2017",
+    "Research Articles/Media/fuEGFmediatedInductionMcl12015",
+    "Research Articles/Septic transfusion case",
+    "Research Articles/Media",
+    "Research Articles/EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival.md",
+    "Research Articles",
+    "Dataview Test.md",
+    "999 Templates/Zotero Note Template.md",
+    "999 Imported Files/Pasted image 20231025235942.png",
+    "999 Daily Notes/2023/10-October/2023-10-25-Wednesday.md",
+    "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
     "Todoist.md",
-    "Bioinformatics/Exploring Sample Relationships in R.md",
-    "999 Templates/Daily Note Template.md",
+    "School/Bioinformatics/Exploring Sample Relationships in R.md",
     "999 Imported Files/Pasted image 20231022231938.png",
     "Programming/R Language.md",
     "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
     "Obsidian.md",
-    "Bioinformatics/Transcriptomic Data Analysis.md",
-    "Bioinformatics/Transcriptome Based Disease Classification.md",
-    "Bioinformatics/Systems Biology.md",
-    "Bioinformatics/Principal Component Analysis.md",
-    "Bioinformatics/K-means Clustering.md",
-    "Bioinformatics/Hierarchical Clustering.md",
-    "Bioinformatics/Gene Expression Omnibus.md",
-    "Bioinformatics",
+    "School/Bioinformatics/Transcriptomic Data Analysis.md",
+    "School/Bioinformatics/Transcriptome Based Disease Classification.md",
+    "School/Bioinformatics/Principal Component Analysis.md",
+    "School/Bioinformatics/K-means Clustering.md",
+    "School/Bioinformatics/Hierarchical Clustering.md",
+    "School/Bioinformatics/Gene Expression Omnibus.md",
+    "School/Bioinformatics",
     "Fenrir.md",
-    "FileCloud.md",
-    "Transcriptome Based Disease Classification.md",
     "999 Imported Files/Pasted image 20231023234701.png",
-    "Transcriptomic Data Analysis.md",
-    "Programming/Python.md",
     "Programming",
-    "Gene Expression Omnibus.md",
     "999 Imported Files/Pasted image 20231023231816.png",
-    "Principal Component Analysis.md",
     "999 Imported Files/Pasted image 20231023231543.png",
     "999 Imported Files/Pasted image 20231023231512.png",
     "999 Imported Files/Pasted image 20231023231341.png",
-    "K-means Clustering.md",
     "999 Imported Files",
-    "Hierarchical Clustering.md",
-    "999 Imported Files/Pasted image 20231023230731.png",
-    "999 Imported Files/Pasted image 20231023230705.png",
-    "999 Imported Files/Pasted image 20231023224940.png",
-    "999 Imported Files/Pasted image 20231023224927.png",
-    "Systems Biology.md",
-    "999 Templates",
-    "999 Daily Notes/2023/10-October",
-    "999 Daily Notes/2023",
-    "999 Daily Notes"
+    "999 Imported Files/Pasted image 20231023230731.png"
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Research Articles",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "formatted-citation"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import",
+      "outputPathTemplate": "Research Articles/{{title}}.md",
+      "imageOutputPathTemplate": "Research Articles/Media/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "999 Templates/Zotero Note Template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
