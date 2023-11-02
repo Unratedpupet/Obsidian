@@ -1,6 +1,6 @@
 {
   "folder": "999 Daily Notes",
   "template": "999 Templates/Daily Note Template",
-  "autorun": true,
+  "autorun": false,
   "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd"
 }

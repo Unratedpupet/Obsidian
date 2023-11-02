@@ -4,10 +4,16 @@ tags:
   - daily_note
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
+---
+created: 2023-11-01 23:29
+tags:
+  - daily_note
+modified: Wednesday 1st November 2023 23:29:15
+---
 
-# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
+# Wednesday, November 01, 2023
 
-<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
+<< [[2023-10-31-Tuesday|Yesterday]] | [[2023-11-02-Thursday|Tomorrow]] >>
 
 ---
 # Tasks
@@ -32,5 +38,6 @@ WHERE contains(dateformat(file.ctime, "YYYY-MM-dd"), dateformat(this.file.day, "
 
 ### Notes last touched today
 ```dataview
-TABLE FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
+TABLE FROM "" WHERE file.mday = date("2023-11-01") SORT file.mtime asc
 ```
+
