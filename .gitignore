@@ -1,7 +1,7 @@
 # Files to ignore.
 .obsidian/cache
 
-.obsidian/workspace
+.obsidian/workspace.json
 
 .trash/
 

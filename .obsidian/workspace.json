@@ -136,6 +136,42 @@
             }
           },
           {
+            "id": "539aa33492161773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b62b697fe8a8bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c327e620b6911011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "36169ef556879a63",
             "type": "leaf",
             "state": {
@@ -148,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -214,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-03-Friday.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -292,10 +328,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01d2b332ae5c82e4",
+  "active": "c327e620b6911011",
   "lastOpenFiles": [
-    "999 Daily Notes/2023/10-October/2023-10-31-Tuesday.md",
+    "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
+    "conflict-files-obsidian-git.md",
+    "School/Bioinformatics/Systems Biology Project One.md",
     "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
+    "999 Daily Notes/2023/11-November/2023-11-01-Wednesday.md",
+    "School/Bioinformatics/Transcriptomic Data Analysis.md",
+    "School/Bioinformatics/Transcriptome Based Disease Classification.md",
+    "School/Bioinformatics/Systems Biology.md",
+    "School/Bioinformatics/Principal Component Analysis.md",
+    "School/Bioinformatics/K-means Clustering.md",
+    "School/Bioinformatics/Hierarchical Clustering.md",
+    "School/Bioinformatics/Gene Expression Omnibus.md",
+    "School/Bioinformatics/Exploring Sample Relationships in R.md",
+    "School/Bioinformatics",
+    "999 Daily Notes/2023/10-October/2023-10-29-Sunday.md",
+    "999 Daily Notes/2023/10-October/2023-10-31-Tuesday.md",
     "999 Daily Notes/2023/11-November",
     "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
     "FileCloud.md",
@@ -303,7 +353,6 @@
     "Fenrir.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
-    "conflict-files-obsidian-git.md",
     "999 Templates/Daily Note Template.md",
     "New Text Document.txt",
     "Research Articles/Septic transfusion case/Septic transfusion case.md",
@@ -318,25 +367,12 @@
     "Research Articles/Septic transfusion case",
     "Research Articles/Media/loza-correaSepticTransfusionCase2017/image-2-x49-y284.png",
     "Research Articles/Media/loza-correaSepticTransfusionCase2017",
-    "999 Daily Notes/2023/10-October/2023-10-25-Wednesday.md",
     "Research Articles/Media/fuEGFmediatedInductionMcl12015/image-2-x73-y485.png",
     "Research Articles/Media/fuEGFmediatedInductionMcl12015",
     "Research Articles/Media",
     "Research Articles",
-    "Dataview Test.md",
     "School/Immunohematology II",
     "School",
-    "Programming/R Language.md",
-    "Programming/Python.md",
-    "MCAT",
-    "Todoist Inbox.md",
-    "Todoist.md",
-    "Bioinformatics/Exploring Sample Relationships in R.md",
-    "Bioinformatics/Transcriptomic Data Analysis.md",
-    "999 Daily Notes/2023/10-October/2023-10-23-Monday.md",
-    "Obsidian.md",
-    "999 Templates/School Note Template.md",
-    "Bioinformatics/Transcriptome Based Disease Classification.md",
     "999 Imported Files/Pasted image 20231023234701.png",
     "999 Imported Files/Pasted image 20231023231816.png",
     "999 Imported Files/Pasted image 20231023231543.png",
