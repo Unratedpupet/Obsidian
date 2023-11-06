@@ -20,6 +20,6 @@ Notes:
 - Running the TRIMMING using trim_galore. Took a little bit to figure out the for loops in bash, but working now for 1+ hour. 
 - Next is going to be the MAPPING, which should also take time. I hope, I finished the mapping.slurm script, but will have to wait to see what happens.
 - After the MAPPING, I need to run the SORTING and INDEXING
-	- It is the BAMINDEX.slurm file that still needs to be scripted #TODO 
+	- It is the BAMINDEX.slurm file that still needs to be scripted 
 - Counting comes next. #TODO 
 - 
