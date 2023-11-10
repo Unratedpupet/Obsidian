@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
+                "file": "School/Bioinformatics/Systems Biology Project One.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
+                "file": "School/Bioinformatics/Systems Biology Project One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
+                "file": "School/Bioinformatics/Systems Biology Project One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md"
+                "file": "School/Bioinformatics/Systems Biology Project One.md"
               }
             }
           },
@@ -318,12 +318,14 @@
   },
   "active": "5b62b697fe8a8bc8",
   "lastOpenFiles": [
-    "Fenrir.md",
-    "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
-    "School/Immunohematology II/Exam 2 Review.md",
     "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
-    "999 Daily Notes/2023/11-November/2023-11-07-Tuesday.md",
     "School/Bioinformatics/Systems Biology Project One.md",
+    "999 Imported Files/Pasted image 20231109225003.png",
+    "Programming/R Language.md",
+    "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
+    "Fenrir.md",
+    "School/Immunohematology II/Exam 2 Review.md",
+    "999 Daily Notes/2023/11-November/2023-11-07-Tuesday.md",
     "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
     "conflict-files-obsidian-git.md",
     "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
@@ -344,8 +346,6 @@
     "FileCloud.md",
     "Homelab.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
-    "999 Daily Notes/2023/10-October/2023-10-24-Tuesday.md",
-    "999 Templates/Daily Note Template.md",
     "New Text Document.txt",
     "Untitled.canvas",
     "Untitled 3.canvas",
@@ -366,7 +366,6 @@
     "999 Imported Files/Pasted image 20231023231543.png",
     "999 Imported Files/Pasted image 20231023231512.png",
     "999 Imported Files/Pasted image 20231023231341.png",
-    "999 Imported Files/Pasted image 20231023230731.png",
-    "999 Imported Files/Pasted image 20231023230705.png"
+    "999 Imported Files/Pasted image 20231023230731.png"
   ]
 }
