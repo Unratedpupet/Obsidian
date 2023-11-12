@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "FileCloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GTNH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "FileCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "FileCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md"
+                "file": "FileCloud.md"
               }
             }
           },
@@ -318,8 +318,9 @@
   },
   "active": "5b62b697fe8a8bc8",
   "lastOpenFiles": [
-    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
+    "Homelab.md",
     "School/Bioinformatics/Systems Biology Project One.md",
+    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
     "999 Imported Files/Pasted image 20231109225003.png",
     "Programming/R Language.md",
     "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
@@ -344,7 +345,6 @@
     "999 Daily Notes/2023/11-November",
     "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
     "FileCloud.md",
-    "Homelab.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "New Text Document.txt",
     "Untitled.canvas",
