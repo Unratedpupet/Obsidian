@@ -38,4 +38,10 @@ When done using the environment, make sure to deactivate with '''deactivate'''
 - [[yfinance]]
 	- Start with yfinance due to simplicity, but move to [[Alpha Vantage]] later.
 - [[numpy]]
-- 
+
+### Generate Trading Signals
+
+Trading signals are generated based on the crossover of the moving averages. The typical logic is:
+
+- **Buy Signal**: When the 50-day MA crosses above the 200-day MA.
+- **Sell Signal**: When the 50-day MA crosses below the 200-day MA.
