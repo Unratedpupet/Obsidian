@@ -36,5 +36,6 @@ When done using the environment, make sure to deactivate with '''deactivate'''
 - [[pandas]]
 - [[matplotlib]]
 - [[yfinance]]
+	- Start with yfinance due to simplicity, but move to [[Alpha Vantage]] later.
 - [[numpy]]
 - 
