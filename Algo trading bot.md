@@ -32,3 +32,9 @@ pip install -r requirements.txt
 
 When done using the environment, make sure to deactivate with '''deactivate'''
 
+## Libraries
+- [[pandas]]
+- [[matplotlib]]
+- [[yfinance]]
+- [[numpy]]
+- 

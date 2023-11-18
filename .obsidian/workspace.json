@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo trading bot.md",
+                "file": "yfinance.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo trading bot.md",
+                "file": "yfinance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo trading bot.md",
+                "file": "yfinance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo trading bot.md"
+                "file": "yfinance.md"
               }
             }
           },
@@ -330,8 +330,9 @@
   },
   "active": "d16d72f53c13a1eb",
   "lastOpenFiles": [
-    "Homelab.md",
     "Algo trading bot.md",
+    "yfinance.md",
+    "Homelab.md",
     "FileCloud.md",
     "School/Bioinformatics/Systems Biology Project One.md",
     "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
@@ -358,7 +359,6 @@
     "999 Daily Notes/2023/10-October/2023-10-31-Tuesday.md",
     "999 Daily Notes/2023/11-November",
     "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
-    "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "New Text Document.txt",
     "Untitled.canvas",
     "Untitled 3.canvas",
