@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Homelab.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Homelab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FileCloud.md",
+                "file": "Homelab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FileCloud.md"
+                "file": "Homelab.md"
               }
             }
           },
@@ -318,6 +318,7 @@
   },
   "active": "5b62b697fe8a8bc8",
   "lastOpenFiles": [
+    "FileCloud.md",
     "Homelab.md",
     "School/Bioinformatics/Systems Biology Project One.md",
     "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
@@ -344,7 +345,6 @@
     "999 Daily Notes/2023/10-October/2023-10-31-Tuesday.md",
     "999 Daily Notes/2023/11-November",
     "999 Daily Notes/2023/10-October/2023-10-30-Monday.md",
-    "FileCloud.md",
     "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
     "New Text Document.txt",
     "Untitled.canvas",
