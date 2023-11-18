@@ -160,6 +160,18 @@
             }
           },
           {
+            "id": "d16d72f53c13a1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo trading bot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "36169ef556879a63",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab.md",
+                "file": "Algo trading bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab.md",
+                "file": "Algo trading bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab.md"
+                "file": "Algo trading bot.md"
               }
             }
           },
@@ -316,10 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b62b697fe8a8bc8",
+  "active": "d16d72f53c13a1eb",
   "lastOpenFiles": [
-    "FileCloud.md",
     "Homelab.md",
+    "Algo trading bot.md",
+    "FileCloud.md",
     "School/Bioinformatics/Systems Biology Project One.md",
     "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
     "999 Imported Files/Pasted image 20231109225003.png",
