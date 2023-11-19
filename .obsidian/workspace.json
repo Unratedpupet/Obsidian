@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "78656f2f026dc2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md"
               }
             }
           }
@@ -191,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78656f2f026dc2bd",
+  "active": "47a1d7a17510e695",
   "lastOpenFiles": [
-    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
     "conflict-files-obsidian-git.md",
+    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
     "Research Articles/EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival.md",
     "Fenrir.md",
     "School/Bioinformatics/Systems Biology Project One.md",
