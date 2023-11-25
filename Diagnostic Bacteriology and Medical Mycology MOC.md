@@ -5,17 +5,15 @@ tags:
   - school
 ---
 ## Exam 4
-- Introduction to Mycology, Specimen Collection and Culture  
+- [[Introduction to Mycology, Specimen Collection and Culture]]  
 	- Unit 14  
 	- Chapter 27  
-- Pathogenic Yeasts  
+- [[Pathogenic Yeasts]]  
 	- Unit 15  
 	- Chapter 27  
-- Saprophytes  
+- [[Saprophytes]]  
 	- Unit 16  
 	- Chapter 27  
-- Superficial and Cutaneous Mycoses  
+- [[Superficial and Cutaneous Mycoses]]  
 	- Unit 17  
 	- Chapter 27  
-- Superficial and Cutaneous Mycoses  
-	- Unit 17

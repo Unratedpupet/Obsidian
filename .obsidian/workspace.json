@@ -21,7 +21,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagnostic Bacteriology and Medical Mycology MOC.md",
+                "file": "Introduction to Mycology, Specimen Collection and Culture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef37fa6b1f3ade23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Superficial and Cutaneous Mycoses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3247f4c7a19d92c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saprophytes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20a99387c756b1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathogenic Yeasts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca893294df2b30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Mycology, Specimen Collection and Culture.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagnostic Bacteriology and Medical Mycology MOC.md",
+                "file": "Introduction to Mycology, Specimen Collection and Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagnostic Bacteriology and Medical Mycology MOC.md",
+                "file": "Introduction to Mycology, Specimen Collection and Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagnostic Bacteriology and Medical Mycology MOC.md"
+                "file": "Introduction to Mycology, Specimen Collection and Culture.md"
               }
             }
           }
@@ -166,6 +214,10 @@
   "active": "d3c63f0dedcf6b58",
   "lastOpenFiles": [
     "Diagnostic Bacteriology and Medical Mycology MOC.md",
+    "Superficial and Cutaneous Mycoses.md",
+    "Saprophytes.md",
+    "Pathogenic Yeasts.md",
+    "Introduction to Mycology, Specimen Collection and Culture.md",
     "conflict-files-obsidian-git.md",
     "School/Diagnostic Bacteriology and Medical Mycology"
   ]
