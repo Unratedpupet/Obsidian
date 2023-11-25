@@ -27,9 +27,12 @@ Upon successful completion of this unit, the student will:
 			The fungi metabolize keratin
 
         c.  Subcutaneous mycosis
-	        
+	        Sporothrix schenckii, Chromoblastomycosis, Mycetoma
+	        Start with traumatic then go deeper. Typicall form nodules, ulcers, and abscesses.
 
         d.  Systemic mycosis
+	        Common agents include Histoplasma capsulatum (Histoplasmosis), Coccidioides immitis (Coccidioidomycosis), Blastomyces dermatitidis (Blastomycosis), and Cryptococcus neoformans (Cryptococcosis).
+	        Organs particularly lungs, CNS, bones, and skin.
 
 4.  Differentiate structures found in yeasts and molds.
 
