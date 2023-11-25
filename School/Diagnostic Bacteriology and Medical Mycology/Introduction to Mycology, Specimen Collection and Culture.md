@@ -18,10 +18,16 @@ Upon successful completion of this unit, the student will:
 3.  Name the etiological agents and tissues involved in the following infections:
 
         a.  Superficial mycosis
+	        Malassezia and certain dermatophytes(Trichophyton)
+	        Outermost tissues
 
         b.  Cutaneous mycosis
+			Trichophyton, Microsporum, and Epidermophyton - ringworm, athletes foot and jock itch
+			Keratinized tissues such as epidermis, hair and nails.
+			The fungi metabolize keratin
 
         c.  Subcutaneous mycosis
+	        
 
         d.  Systemic mycosis
 
