@@ -5,5 +5,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "todoist-sync-plugin",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-linter"
 ]
