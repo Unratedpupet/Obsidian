@@ -13,3 +13,5 @@ Install [[portainer]] #TODO
 	- [[Adguard]]
 	- [[Minecraft]] server
 		- 10-22-23 #GTNH 
+	- Portainer 192.168.0.178:9443
+		- Admin L1liebug!Fenn

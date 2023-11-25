@@ -52,3 +52,6 @@ Notes:
 	- This gene encodes a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins. Ligands of this family bind various TGF-beta receptors leading to recruitment and activation of SMAD family transcription factors that regulate gene expression. The encoded preproprotein is proteolytically processed to generate the mature protein, which binds to the activin receptor-like kinase 1 (ALK1) and ==plays important roles in cardiovascular development including cardiomyocyte proliferation and regulation of heart size, closure of the ductus arteriosus, angiogenesis and ventricular trabeculation.==
 		- Ventricular trabeculation
 			- In left ventricular non-compaction cardiomyopathy (LVNC) contains **bundles or pieces of muscle that extend into the chamber**. These pieces of muscles are called trabeculations.
+
+
+## Interim paper was submitted. 11-10-23 @ 2230

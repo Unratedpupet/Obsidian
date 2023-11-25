@@ -1,64 +1,48 @@
 {
   "main": {
-    "id": "4e9307152ba9d684",
+    "id": "e9313230692a909f",
     "type": "split",
     "children": [
       {
-        "id": "6ebb2c42a80f8186",
+        "id": "06161304061a81a7",
         "type": "tabs",
         "children": [
           {
-            "id": "3445d8d5dab4e282",
+            "id": "10c7830e0fde945d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FileCloud.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "d2091d4e86c67896",
+            "id": "029702a8096ac75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a1d7a17510e695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4b09ab2383cff4a8",
+    "id": "e2342c3e982e49c2",
     "type": "split",
     "children": [
       {
-        "id": "cf8a6538a090214d",
+        "id": "bf7d858c0ab6ed12",
         "type": "tabs",
         "children": [
           {
-            "id": "c59decd0718f54be",
+            "id": "46582bb0aa688bd9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +52,7 @@
             }
           },
           {
-            "id": "c21441e8697ed1e7",
+            "id": "fcb967d506572838",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +67,7 @@
             }
           },
           {
-            "id": "19ddf43cd8b981a0",
+            "id": "aafe0857e2748f57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "93bf139aaf3ec612",
+    "id": "636deabb6e36d09f",
     "type": "split",
     "children": [
       {
-        "id": "6af22a23fd694eec",
+        "id": "1a1c01300f67b27b",
         "type": "tabs",
         "children": [
           {
-            "id": "2331a3400c20fb80",
+            "id": "444c83a3f1ce77a3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -113,12 +97,12 @@
             }
           },
           {
-            "id": "3506dafa14a9232b",
+            "id": "53da2ebfd8ecfe0c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +114,19 @@
             }
           },
           {
-            "id": "76ff01241a785cdd",
+            "id": "94e57323d96906f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e84616331c6c6307",
+            "id": "345a440096df5ef3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,12 +137,12 @@
             }
           },
           {
-            "id": "06b6449f1fd088ed",
+            "id": "bac42d7b93273150",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -179,22 +163,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a1d7a17510e695",
+  "active": "029702a8096ac75e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
-    "Research Articles/EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival.md",
-    "Fenrir.md",
-    "School/Bioinformatics/Systems Biology Project One.md",
-    "Homelab.md",
-    "FileCloud.md",
-    "999 Imported Files/Pasted image 20231109225003.png",
-    "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
-    "999 Daily Notes/2023/11-November/2023-11-07-Tuesday.md",
-    "999 Daily Notes/2023/11-November/2023-11-01-Wednesday.md",
-    "School/Immunohematology II/Exam 2 Review.md",
-    "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
-    "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
-    "999 Daily Notes/2023/11-November"
+    "conflict-files-obsidian-git.md"
   ]
 }
