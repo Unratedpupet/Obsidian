@@ -4,6 +4,9 @@ tags:
   - school
   - bioinformatics
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+references:
+  - "[[Systems Biology]]"
+  - "[[R Language]]"
 ---
 
 [[Systems Biology]]
