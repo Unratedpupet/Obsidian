@@ -52,6 +52,12 @@ Notes:
 	- This gene encodes a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins. Ligands of this family bind various TGF-beta receptors leading to recruitment and activation of SMAD family transcription factors that regulate gene expression. The encoded preproprotein is proteolytically processed to generate the mature protein, which binds to the activin receptor-like kinase 1 (ALK1) and ==plays important roles in cardiovascular development including cardiomyocyte proliferation and regulation of heart size, closure of the ductus arteriosus, angiogenesis and ventricular trabeculation.==
 		- Ventricular trabeculation
 			- In left ventricular non-compaction cardiomyopathy (LVNC) contains **bundles or pieces of muscle that extend into the chamber**. These pieces of muscles are called trabeculations.
+- [HCN2](https://www.ncbi.nlm.nih.gov/gene/610)
+	- The protein encoded by this gene is a hyperpolarization-activated cation channel involved in the generation of native pacemaker activity in the heart and in the brain. The encoded protein is activated by cAMP and can produce a fast, large current. Defects in this gene were noted as a possible cause of some forms of epilepsy.
+- [TRPC1](https://www.ncbi.nlm.nih.gov/gene/7220)
+	- The protein encoded by this gene is a membrane protein that can form a non-selective channel permeable to calcium and other cations. The encoded protein appears to be induced to form channels by a receptor tyrosine kinase-activated phosphatidylinositol second messenger system and also by depletion of intracellular calcium stores. Two transcript variants encoding different isoforms have been found for this gene.
 
 
 ## Interim paper was submitted. 11-10-23 @ 2230
+- This is a good start, however I had to remove points as you did not clearly state your hypothesis…although I could reason out based on your background. State your hypothesis clearly in final report.
+- You also seem to be missing a results narrative (or what you are considering the narrative looks like figure captions. The results narrative needs to be more comprehensive.
