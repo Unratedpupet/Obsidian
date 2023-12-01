@@ -4,6 +4,9 @@ tags:
   - school
   - bioinformatics
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+references:
+  - "[[Systems Biology]]"
+  - "[[R Language]]"
 ---
 
 [[Systems Biology]]
@@ -59,5 +62,7 @@ Notes:
 
 
 ## Interim paper was submitted. 11-10-23 @ 2230
+
 - This is a good start, however I had to remove points as you did not clearly state your hypothesis…although I could reason out based on your background. State your hypothesis clearly in final report.
 - You also seem to be missing a results narrative (or what you are considering the narrative looks like figure captions. The results narrative needs to be more comprehensive.
+
