@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "391253a29d72785b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immunohematology MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "Immunohematology MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "Immunohematology MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md"
+                "file": "Immunohematology MOC.md"
               }
             }
           }
@@ -215,10 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2986c7512f8cb2",
+  "active": "391253a29d72785b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
+    "Immunohematology MOC.md",
+    "School/Immunohematology II/Exam 2 Review.md",
     "School/Bioinformatics/Systems Biology Project One.md",
+    "conflict-files-obsidian-git.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Introduction to Mycology, Specimen Collection and Culture.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Diagnostic Bacteriology and Medical Mycology MOC.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Superficial and Cutaneous Mycoses.md",
