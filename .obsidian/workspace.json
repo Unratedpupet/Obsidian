@@ -1,26 +1,58 @@
 {
   "main": {
-    "id": "e9313230692a909f",
+    "id": "adc91526875a39b1",
     "type": "split",
     "children": [
       {
-        "id": "06161304061a81a7",
+        "id": "d9188ced1745e7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "10c7830e0fde945d",
+            "id": "b7c5f4a24e74fbd9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "377e47a334640adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Bioinformatics/Systems Biology Project One.md",
+                "file": "999 Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b2986c7512f8cb2",
+            "id": "0344abd33d1f6f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todoist Inbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba498a5bd698b37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6110a81b9b49235c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +64,91 @@
             }
           },
           {
-            "id": "391253a29d72785b",
+            "id": "9d21d70bb5d88741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunohematology MOC.md",
+                "file": "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "78ae650e39bede6c",
+            "id": "fa2b66923f1cd9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Articles/Septic transfusion case/Septic transfusion case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e03e84c9bfecc54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/10-October/2023-10-26-Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ef2712ce70108c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a96869c91a2cacf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d2b332ae5c82e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539aa33492161773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b62b697fe8a8bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,69 +160,33 @@
             }
           },
           {
-            "id": "ef37fa6b1f3ade23",
+            "id": "36169ef556879a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Diagnostic Bacteriology and Medical Mycology/Superficial and Cutaneous Mycoses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3247f4c7a19d92c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Diagnostic Bacteriology and Medical Mycology/Saprophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a99387c756b1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Diagnostic Bacteriology and Medical Mycology/Pathogenic Yeasts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eca893294df2b30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Diagnostic Bacteriology and Medical Mycology/Introduction to Mycology, Specimen Collection and Culture.md",
+                "file": "Programming/R Language.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e2342c3e982e49c2",
+    "id": "fa6e1c82cddf0f10",
     "type": "split",
     "children": [
       {
-        "id": "bf7d858c0ab6ed12",
+        "id": "ba8cc8e364cb7609",
         "type": "tabs",
         "children": [
           {
-            "id": "46582bb0aa688bd9",
+            "id": "2d440b8095579135",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -128,12 +196,12 @@
             }
           },
           {
-            "id": "fcb967d506572838",
+            "id": "cc30ab406be8f862",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GTNH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +211,7 @@
             }
           },
           {
-            "id": "aafe0857e2748f57",
+            "id": "b4f863d65caacef1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -157,23 +225,15 @@
     "width": 300
   },
   "right": {
-    "id": "636deabb6e36d09f",
+    "id": "2185c10d9b21581e",
     "type": "split",
     "children": [
       {
-        "id": "1a1c01300f67b27b",
+        "id": "a174c9b3894c0a65",
         "type": "tabs",
         "children": [
           {
-            "id": "444c83a3f1ce77a3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "53da2ebfd8ecfe0c",
+            "id": "f39d8b45d6363c50",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -190,7 +250,7 @@
             }
           },
           {
-            "id": "94e57323d96906f4",
+            "id": "48e903c8dcfb56ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -202,7 +262,7 @@
             }
           },
           {
-            "id": "345a440096df5ef3",
+            "id": "994ce040146c277d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -213,7 +273,7 @@
             }
           },
           {
-            "id": "bac42d7b93273150",
+            "id": "8e59c4a9305b3d44",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -221,8 +281,25 @@
                 "file": "School/Immunohematology II/Immunohematology II Exam 3.md"
               }
             }
+          },
+          {
+            "id": "ef3c4f2d1f5e00ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "94c08baf1e4eff5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,27 +308,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "46582bb0aa688bd9",
+  "active": "5b62b697fe8a8bc8",
   "lastOpenFiles": [
-    "Immunohematology MOC.md",
-    "School/Immunohematology II/Immunohematology II Exam 3.md",
-    "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
     "School/Immunohematology II/Exam 2 Review.md",
+    "School/Immunohematology II/Autoimmune Hemolytic Anemias and Drug Induced HAs.md",
     "School/Bioinformatics/Systems Biology Project One.md",
-    "conflict-files-obsidian-git.md",
-    "School/Diagnostic Bacteriology and Medical Mycology/Introduction to Mycology, Specimen Collection and Culture.md",
-    "School/Diagnostic Bacteriology and Medical Mycology/Diagnostic Bacteriology and Medical Mycology MOC.md",
+    "School/Immunohematology II/Immunohematology II Exam 3.md",
+    "Immunohematology MOC.md",
+    "Homelab.md",
+    "Systems Biology Project One]][[R Language.md",
+    "Algo trading bot.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Superficial and Cutaneous Mycoses.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Saprophytes.md",
     "School/Diagnostic Bacteriology and Medical Mycology/Pathogenic Yeasts.md",
-    "School/Diagnostic Bacteriology and Medical Mycology"
+    "School/Diagnostic Bacteriology and Medical Mycology/Introduction to Mycology, Specimen Collection and Culture.md",
+    "School/Diagnostic Bacteriology and Medical Mycology/Diagnostic Bacteriology and Medical Mycology MOC.md",
+    "School/Diagnostic Bacteriology and Medical Mycology",
+    "yfinance.md",
+    "FileCloud.md",
+    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
+    "999 Imported Files/Pasted image 20231109225003.png",
+    "Programming/R Language.md",
+    "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
+    "Fenrir.md",
+    "999 Daily Notes/2023/11-November/2023-11-07-Tuesday.md",
+    "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
+    "conflict-files-obsidian-git.md",
+    "999 Daily Notes/2023/11-November/2023-11-03-Friday.md",
+    "999 Daily Notes/2023/11-November/2023-11-01-Wednesday.md",
+    "School/Bioinformatics/Transcriptomic Data Analysis.md",
+    "School/Bioinformatics/Transcriptome Based Disease Classification.md",
+    "School/Bioinformatics",
+    "999 Daily Notes/2023/11-November",
+    "New Text Document.txt",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "999 Imported Files/Pasted image 20231025235942.png",
+    "Research Articles/Septic transfusion case",
+    "Research Articles/Media/loza-correaSepticTransfusionCase2017/image-2-x49-y284.png",
+    "Research Articles/Media/loza-correaSepticTransfusionCase2017",
+    "Research Articles/Media/fuEGFmediatedInductionMcl12015/image-2-x73-y485.png",
+    "Research Articles/Media/fuEGFmediatedInductionMcl12015",
+    "Research Articles/Media",
+    "Research Articles",
+    "School/Immunohematology II",
+    "999 Imported Files/Pasted image 20231023234701.png",
+    "999 Imported Files/Pasted image 20231023231816.png",
+    "999 Imported Files/Pasted image 20231023231543.png",
+    "999 Imported Files/Pasted image 20231023231512.png",
+    "999 Imported Files/Pasted image 20231023231341.png",
+    "999 Imported Files/Pasted image 20231023230731.png"
   ]
 }
