@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "d2da0a66fd409b6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "ef37fa6b1f3ade23",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,7 +249,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78ae650e39bede6c",
+  "active": "d2da0a66fd409b6e",
   "lastOpenFiles": [
     "Homelab.md",
     "Nginx Proxy Manager.md",
