@@ -49,19 +49,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx Proxy Manager.md",
+                "file": "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2da0a66fd409b6e",
+            "id": "793a3ebea0a6712c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "RA meeting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx Proxy Manager.md",
+                "file": "RA meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx Proxy Manager.md",
+                "file": "RA meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx Proxy Manager.md"
+                "file": "RA meeting.md"
               }
             }
           }
@@ -249,10 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2da0a66fd409b6e",
+  "active": "793a3ebea0a6712c",
   "lastOpenFiles": [
-    "Homelab.md",
+    "999 Daily Notes/2023/10-October/2023-10-22-Sunday.md",
+    "RA meeting.md",
     "Nginx Proxy Manager.md",
+    "Homelab.md",
     "School/Bioinformatics/Systems Biology Project One.md",
     "Immunohematology MOC.md",
     "School/Immunohematology II/Immunohematology II Exam 3.md",
