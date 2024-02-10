@@ -16,41 +16,19 @@
             }
           },
           {
-            "id": "f90156c07ba80861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Air Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "346f69a5ef2f91e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Air Methods Pre-Hire Exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c1bdae135176a6bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "School/Bioinformatics/BioInformatic MOC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Air Methods Pre-Hire Exam.md",
+                "file": "School/Bioinformatics/BioInformatic MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Air Methods Pre-Hire Exam.md",
+                "file": "School/Bioinformatics/BioInformatic MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Air Methods Pre-Hire Exam.md"
+                "file": "School/Bioinformatics/BioInformatic MOC.md"
               }
             }
           },
@@ -196,6 +174,9 @@
   },
   "active": "c1bdae135176a6bc",
   "lastOpenFiles": [
+    "School/Bioinformatics/Reproducibility in Research.md",
+    "School/Bioinformatics/BioInformatic MOC.md",
+    "Research Articles/EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival.md",
     "Air Methods.md",
     "Air Methods Pre-Hire Exam.md",
     "Programming/R Language.md",
@@ -221,9 +202,6 @@
     "999 Imported Files/Pasted image 20231109225003.png",
     "999 Daily Notes/2023/11-November/2023-11-09-Thursday.md",
     "Fenrir.md",
-    "999 Daily Notes/2023/11-November/2023-11-07-Tuesday.md",
-    "999 Daily Notes/2023/11-November/2023-11-04-Saturday.md",
-    "conflict-files-obsidian-git.md",
     "School/Bioinformatics",
     "999 Daily Notes/2023/11-November",
     "New Text Document.txt",
