@@ -11,3 +11,6 @@ Inferential uses confidence intervals. Concerned with making inferences, dealing
 
 Parsimony - using less to say more
 
+Nature of the data
+	qualitative (nominal and ordinal)
+	quantitative (continuous)
