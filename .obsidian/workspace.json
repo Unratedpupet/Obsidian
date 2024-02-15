@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics.md",
+                "file": "Statistical Research Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics.md",
+                "file": "Statistical Research Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics.md",
+                "file": "Statistical Research Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatics.md"
+                "file": "Statistical Research Methods.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "c1bdae135176a6bc",
   "lastOpenFiles": [
     "School/Bioinformatics/BioInformatic MOC.md",
+    "Statistical Research Methods.md",
     "Bioinformatics.md",
     "Databases for BioInformatics.md",
     "School/Bioinformatics/Reproducibility in Research.md",
@@ -200,7 +201,6 @@
     "School/Diagnostic Bacteriology and Medical Mycology",
     "yfinance.md",
     "FileCloud.md",
-    "Research Articles/Gene editing to prevent ventricular arrhythmias associated with cardiomyocyte cell therapy.md",
     "999 Imported Files/Pasted image 20231109225003.png",
     "School/Bioinformatics",
     "999 Daily Notes/2023/11-November",
